@@ -1,3 +1,5 @@
+#İlk olarak n kişi sayısı kadar bir liste oluşturunuz. Listenin içindeki degeri de listenin sınırını da inputlarla belirleyiniz.
+#İkinci en yüksek alan yarışmacıyı bulan kod satırını yazınız.
 n = int(input())
 arr = map(int, input().split())
 a=list(arr)
